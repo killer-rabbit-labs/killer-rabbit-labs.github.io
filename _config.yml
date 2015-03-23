@@ -1,0 +1,63 @@
+# Site settings
+title: Killer Rabbit Labs
+abrev: KRL
+email: firizarry@killerrabbitlabs.com
+url: http://www.killerrabbitlabs.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+sub_header: Product Development - MVPs - Data Viz and Analysis
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: A30707 #80B3FF 
+  secondary: 2c3e50 #FD6E8A
+  links: 848C93
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Killer Rabbit Labs, LLC
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/krabbitlabs
+  - title: github
+    url: http://github.com/killer-rabbit-labs
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 151 San Francisco Street
+  - line: Old San Juan, PR 00901
+
+# Credits content
+credits: '<p>This site was done using <a href="http://jekyllrb.com/">Jekyll</a> and the Freelancer theme.</p> <p>Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+team:
+  froi:
+    img: img/froi.png
+    social:
+      - title: twitter
+        url: https://twitter.com/skfroi
+      - title: github
+        url: https://github.com/froi
+      - title: linkedin
+        url: https://www.linkedin.com/in/froilanirizarry
+  sasha: 
+    img: img/sasha.png
+    social:
+      - title: twitter
+        url: https://twitter.com/sasham_pr
+      - title: github
+        url: https://github.com/smendez
+      - title: linkedin
+        url: https://www.linkedin.com/in/sashamendez

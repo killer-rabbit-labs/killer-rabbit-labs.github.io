@@ -1,0 +1,14 @@
+---
+layout: default
+title: BFernandez 
+modal-id: 1
+date: 2014-07-18
+img: bfernandez-api.png
+alt: image-alt
+project-date: November 2014
+client: String HQ
+client-url: http://app.stringhq.com/
+category: Web Development, backend services
+description: RESTful API serving BFernandez digital catalog to their sales associates. 
+
+---

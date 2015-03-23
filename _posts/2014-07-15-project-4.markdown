@@ -1,0 +1,14 @@
+---
+layout: default
+title: Dastra
+modal-id: 4
+date: 2015-03-10
+img: dastra.png
+alt: image-alt
+project-date: March 2015
+client: Our very one product!
+client-url: http://dastra-froi.herokuapp.com
+category: Web Development / Data Analytics
+description: Dastra started as a tool to help us explain and show one of our clients their own data. Some tinkering later and we saw it's potential for greatness. It's still under active development so more about this soon!
+
+---

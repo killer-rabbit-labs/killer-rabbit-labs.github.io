@@ -1,0 +1,14 @@
+---
+layout: default
+title: OCAM CIS
+modal-id: 2
+date: 2015-03-01
+img: ocam-api.png
+alt: image-alt
+project-date: March 2015
+client: String HQ / OCAM
+client-url: http://app.stringhq.com
+category: Web Development
+description: RESTful API serving as the backend for a video e-learning site for the OCAM government agenct in Puerto Rico.
+
+---
